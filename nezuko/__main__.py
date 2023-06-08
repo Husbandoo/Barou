@@ -141,8 +141,8 @@ keyboard = InlineKeyboardMarkup(
                 url=f"t.me/{BOT_USERNAME}?start=help",
             ),
             InlineKeyboardButton(
-                text="Repo 🛠",
-                url="https://github.com/Husbandoo/BarouShoei",
+                text="Anistate 🏮",
+                url="https://t.me/AnistateTech",
             ),
         ],
         [
