@@ -104,10 +104,10 @@ home_keyboard_pm = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="Commands ❓", callback_data="bot_commands"
+                text="Help 💬", callback_data="bot_commands"
             ),
             InlineKeyboardButton(
-                text="Repo ❤️",
+                text="Support Chat 📢",
                 url="https://github.com/rozari0/NezukoBot",
             ),
         ],
@@ -142,7 +142,7 @@ keyboard = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="Repo 🛠",
-                url="https://github.com/rozari0/NezukoBot",
+                url="https://github.com/Husbandoo/BarouShoei",
             ),
         ],
         [
