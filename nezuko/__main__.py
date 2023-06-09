@@ -67,7 +67,7 @@ async def start_bot():
             bot_modules += "|{:<15}".format(i)
         j += 1
     print("+===============================================================+")
-    print("|                              Nezuko                           |")
+    print("|                              Sung Jin Woo                           |")
     print("+===============+===============+===============+===============+")
     print(bot_modules)
     print("+===============+===============+===============+===============+")
@@ -108,7 +108,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="Support Chat 📢",
-                url="https://github.com/rozari0/NezukoBot",
+                url="https://t.me/Arsenia_Support",
             ),
         ],
         [
